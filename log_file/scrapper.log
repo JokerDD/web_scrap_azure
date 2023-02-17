@@ -106,3 +106,32 @@ INFO:root:no comment head found
 INFO:root:mydict append completed
 INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 01:02:26] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 01:02:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:#####################app start##########################
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.120:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:home_page hit by machine:192.168.0.120
+INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 03:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 03:35:44] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 03:35:44] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 03:35:49] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 03:35:49] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.0.120 - - [18/Feb/2023 03:35:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
