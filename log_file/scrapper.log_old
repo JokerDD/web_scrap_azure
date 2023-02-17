@@ -1,0 +1,467 @@
+INFO:root:#####################app start##########################
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:21:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:21:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:21:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:21:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:21:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:21:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:22:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:22:03] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:22:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:22:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:22:15] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:22:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:23:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:23:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:23:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:23:27] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:23:28] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:23:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:20] "GET / HTTP/1.1" 200 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:26] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:26] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review_code ready with length : 11 
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:50] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:24:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:26:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:26:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:26:27] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:26:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:26:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:26:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:27:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:27:45] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:27:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:28:01] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:28:02] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:28:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 3 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:54:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:54:04] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:54:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+CRITICAL:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:54:32] "POST /review HTTP/1.1" 200 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:56:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:56:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:56:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:56:56] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:56:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:56:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 0 
+CRITICAL:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:57:22] "POST /review HTTP/1.1" 200 -
+INFO:root:review_code ready with length : 0 
+CRITICAL:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:57:42] "POST /review HTTP/1.1" 200 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 02:58:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:#####################app start##########################
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.10:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:01:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:01:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:01:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:39] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:39] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:03:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:08] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:08] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:04:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:06:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:06:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:06:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:06:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:07:08] "POST /review HTTP/1.1" 200 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:07:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:07:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:07:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+CRITICAL:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:08:00] "POST /review HTTP/1.1" 200 -
+INFO:root:review_code ready with length : 0 
+CRITICAL:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:08:39] "POST /review HTTP/1.1" 200 -
+INFO:root:review_code ready with length : 0 
+CRITICAL:root:list index out of range
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:09:55] "POST /review HTTP/1.1" 200 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:15:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:15:59] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:15:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:15:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:16:08] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:16:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:16:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:no rating found
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:21] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:21] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:21] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+CRITICAL:root:'NoneType' object has no attribute 'div'
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:36] "POST /review HTTP/1.1" 200 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:44] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 03:17:44] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:#####################app start##########################
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.11:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:53] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:53] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:59] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:12:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:review_code ready with length : 11 
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+INFO:root:mydict append completed
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no rating found
+ERROR:root:'NoneType' object has no attribute 'div'
+INFO:root:no comment head found
+INFO:root:mydict append completed
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:20] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:home_page hit by machine:172.18.0.2
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:44] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+CRITICAL:root:'NoneType' object has no attribute 'div'
+INFO:werkzeug:172.18.0.2 - - [17/Feb/2023 19:13:49] "POST /review HTTP/1.1" 200 -
